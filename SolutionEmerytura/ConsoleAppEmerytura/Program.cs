@@ -29,7 +29,8 @@ namespace ConsoleAppEmerytura
             {
                 Console.WriteLine("Jesteś emerytem");
             }
-            Console.ReadKey(); //oczekuje na naciśnięcie dowolnego klawisza -> ctrl + F5 uruchamia bez debugowania i daje podobny efekt
+
+            //Console.ReadKey(); //oczekuje na naciśnięcie dowolnego klawisza -> ctrl + F5 uruchamia bez debugowania i daje podobny efekt
         }
     }
 }
